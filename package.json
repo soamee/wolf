@@ -1,0 +1,11 @@
+{
+  "name": "wolf",
+  "version": "0.0.1",
+  "description": "Boilerplate initialization with Pepperoni template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javier Manzano <jmanzano@soamee.com> (http://jmanzano.me)",
+  "license": "ISC"
+}
